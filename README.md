@@ -4,7 +4,7 @@
 A Node.js command-line application to generate SVG logos based on user input.
 
 ## Installation
-1. Clone the repository.
+1. Clone the repository - https://github.com/github-cedsim/SVG-Logo-Maker.git.
 2. Run `npm install` to install dependencies.
 
 ## Usage
@@ -15,6 +15,6 @@ A Node.js command-line application to generate SVG logos based on user input.
 ## Tests
 Run `npm test` to execute the tests using Jest.
 
-## Example
-Generated SVG logo:
-![Example SVG](examples/logo.svg)
+## Links
+GitHub Repository: https://github.com/github-cedsim/SVG-Logo-Maker
+Video Demo: https://drive.google.com/file/d/1fPH3XBeaeYNPI3qUz2RBYmOCzhU7sU0A/view?usp=drive_link
